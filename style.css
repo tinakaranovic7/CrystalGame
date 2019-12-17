@@ -1,0 +1,163 @@
+.cry-img {
+
+	height: 200px;
+	width: 200px;
+	
+}
+
+.back {
+
+	background-color: white;
+	height: 200px;
+	width: 200px;
+	float: left;
+	margin-right: 20px;
+	border-style: solid;
+	border-width: 0.5px;
+	border-color: grey;
+}
+
+body {
+	
+	background-image: url("images/crystal-textured-background-illustration_53876-81306.jpg");
+	margin-left: 50px;
+
+	height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+#title {
+
+	padding: 20px;
+	background-color: rgb(244, 248, 16);
+	color: rgb(81, 103, 202);
+	float: left;
+	border-style: solid;
+	border-width: 0.5px;
+	border-color: grey;
+}
+
+#instr-back {
+
+	background-color: antiquewhite;
+	float: left;
+	border-style: solid;
+	border-width: 0.5px;
+	border-color: grey;
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 650px;
+}
+
+#instructions {
+
+	font-family: arial;
+	color: rgb(34, 53, 139);
+	font-weight: bold;
+}
+
+#target-back  {
+
+	background-color: rgb(246, 246, 248);
+	float: left;
+	border-style: solid;
+	border-width: 0.5px;
+	border-color: grey;
+	padding-left: 10px;
+	padding-right: 150px;
+	padding-bottom: 100px;
+
+}
+
+#counter-back  {
+
+	background-color: powderblue;
+	float: left;
+	margin-left: 40px;
+	border-style: solid;
+	border-width: 0.5px;
+	border-color: grey;
+	padding-left: 10px;
+	padding-right: 10px;
+
+
+}
+
+#score {
+
+	background-color: rgb(143, 43, 98);
+	float: left;
+	border-style: solid;
+	border-width: 0.5px;
+	border-color: grey;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+
+}
+
+#curScore {
+
+	padding: 10px;
+	padding-right: 150px;
+	padding-bottom: 75px;
+	background-color: rgb(143, 43, 98);;
+	float: left;
+	border-style: solid;
+	border-width: 0.5px;
+	border-color: grey;
+	margin-bottom: 75px;
+	color: white;
+	font-family: arial;
+	font-size: 40px;
+	
+
+}
+
+#numGuess {
+
+	color: slateblue;
+	font-family: arial;
+	font-weight: bold;
+}
+
+#targetNumber {
+
+	color: purple;
+	font-size: 40px;
+}
+
+#wins {
+
+	color: navy;
+	font-weight: bold;
+	font-family: arial;
+}
+
+#losses {
+
+	color: navy;
+	font-weight: bold;
+	font-family: arial;
+}
+
+#score-txt {
+
+color: white;
+font-weight: bold;
+font-family: arial;
+
+}
+
+
+
+
+
+
+
+
